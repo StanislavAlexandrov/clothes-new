@@ -1,11 +1,11 @@
 const Card = ({ name, size, price, image, description }) => {
     return (
         <div class="flex border-b-2 border-slate-200 font-sans">
-            <div class="relative w-48 flex-none">
+            <div class="relative w-72 flex-none">
                 <img
                     src={image}
                     alt=""
-                    class="absolute inset-0 h-full w-full rounded-l object-cover hover:scale-150"
+                    class="absolute inset-0 h-full w-full rounded-l object-cover hover:scale-150 hover:z-50"
                     loading="lazy"
                 />
             </div>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/clothes-new/static/css/main.0088e986.css",
-    "main.js": "/clothes-new/static/js/main.f44a1fd4.js",
+    "main.css": "/clothes-new/static/css/main.d010663b.css",
+    "main.js": "/clothes-new/static/js/main.fe5ffadd.js",
     "static/js/787.5885502a.chunk.js": "/clothes-new/static/js/787.5885502a.chunk.js",
     "static/media/jcrew-turtleneck-m-1000.jpg": "/clothes-new/static/media/jcrew-turtleneck-m-1000.fa2d29e92ccba4f7dea1.jpg",
     "static/media/twinset-tee-m-4500.jpg": "/clothes-new/static/media/twinset-tee-m-4500.9ade267cc915c592b6ae.jpg",
@@ -40,12 +40,12 @@
     "static/media/banana-dress-6-7500.jpg": "/clothes-new/static/media/banana-dress-6-7500.b4ba95c75b7314228148.jpg",
     "static/media/tedbaker-top-m-5000.jpg": "/clothes-new/static/media/tedbaker-top-m-5000.287b5c3349269a81c555.jpg",
     "index.html": "/clothes-new/index.html",
-    "main.0088e986.css.map": "/clothes-new/static/css/main.0088e986.css.map",
-    "main.f44a1fd4.js.map": "/clothes-new/static/js/main.f44a1fd4.js.map",
+    "main.d010663b.css.map": "/clothes-new/static/css/main.d010663b.css.map",
+    "main.fe5ffadd.js.map": "/clothes-new/static/js/main.fe5ffadd.js.map",
     "787.5885502a.chunk.js.map": "/clothes-new/static/js/787.5885502a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0088e986.css",
-    "static/js/main.f44a1fd4.js"
+    "static/css/main.d010663b.css",
+    "static/js/main.fe5ffadd.js"
   ]
 }

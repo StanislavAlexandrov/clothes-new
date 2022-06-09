@@ -5,7 +5,7 @@ const Card = ({ name, size, price, image, description }) => {
                 <img
                     src={image}
                     alt=""
-                    class="absolute inset-0 h-full w-full rounded-l object-cover hover:scale-150 hover:z-50"
+                    class="absolute inset-0 h-full w-full rounded-l object-cover "
                     loading="lazy"
                 />
             </div>
